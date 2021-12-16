@@ -1,2 +1,2 @@
 # bhanvimenghani.github.io
-## [bhanvimenghani.me](http://bhanvimenghani.me) will do the talking for me!
+## [bhanvimenghani.github](https://bhanvimenghani.github.io) will do the talking for me!
